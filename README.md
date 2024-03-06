@@ -24,7 +24,7 @@ graph RL
     classDef BFO fill:#F5AD27,color:#060606
     classDef OccO fill:#1FBF1F,color:#060606
 ```
-OccO: Occupation Ontology
+OccO: Occupation Ontology 
 The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO is an initial ontological presentation of information taken from a standardized occupation taxonomy, the US Standard Occupational Classification (SOC) as enhanced by the **O*Net** system.  These systems have been developed by the following US Federal agencies:
 - Department of Labor 
 - Bureau of Labor Statistics
