@@ -57,13 +57,28 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 - Damion Dooley
 - John Judkins
 
+## Collaborators: 
+- [Alabama ACCCP](https://alabamaworks.com/acccp/): ACCCP stands for Alabama Committee On Credentialing and Career Pathways, which is a committee of the Alabama Workforce Council to identify regional and statewide in-demand occupations, career pathways, and credentials of value. We have collaborated with Dr. [Robin McGill](https://www.linkedin.com/in/remcgill/) (a member of OccO team), Mr. [Nathaniel Rankin](https://www.linkedin.com/in/nathaniel-rankin/), and Mr. [Nick More](https://www.linkedin.com/in/nick-moore-01826390/) from Alabama on a collaborative project that aims to use OccO to support the ACCCP tasks.      
+- Dr. [Kyle Harper](https://www.ou.edu/cas/classicsandletters/people/kyle-harper) and Dr. [Kun Lu](https://www.ou.edu/cas/slis/people/kun-lu), University of Oklahoma. Focus：Historical occupations, such as: Dynamic occupation changes given history. 
+
+## News:
+
+- **12/21/2023**: Sam and Oliver talked to Dr. [Kyle Harper](https://www.ou.edu/cas/classicsandletters/people/kyle-harper) and Dr. [Kun Lu](https://www.ou.edu/cas/slis/people/kun-lu) from the University of Oklahoma about possible collaboration, esp. on how to study the association between history and occupations using OccO. 
+   
+- **12/15/2023**: OccO was officially available in OBO Foundry website: https://obofoundry.org/ontology/occo.html.
+  
+- **12/12-13/2023**: John Beverley and Oliver He were invited to attend an occupation-related [ACCCP](https://alabamaworks.com/acccp/) (Alabama Committee on Credentialing and Career Pathways - AlabamaWorks!) meeting at Montgomery, Alabama. The ACCP meeting was organized by the Alabama government. Workforce development in Alabama is being recognized as among the best in the country. John and Olivere had wonderful meetings with Dr. Robin McGill (Deputy Director for Academic Affairs, Alabama Commission on Higher Education), Mr. Nathaniel Rankin (Data & Policy Analyst, Office of Education and Workforce Statistics), and Mr. Nick More (Director of the Governor's Office of Education and Workforce Transformation at Office of the Governor, State of Alabama). We also discussed more possible collaborations between ACCP and OccO.  
+
+- **12/12/2023**: OccO was officially accepted into the OBO ontology library by the OBO Operation Committee. See more: https://github.com/OBOFoundry/OBOFoundry.github.io/issues/2428.
+
+
 ## OccO Publications:
 
-John Beverley, Sam Smith, Matthew A Diller, William D. Duncan, Jie Zheng, John W. Judkins, William R. Hogan, Robin McGill, Damion Dooley, Yongqun He. The Occupation Ontology (OccO): Building a Bridge between Global Occupational Standards. Proceedings of The International Workshop on Ontologies for Social Services (OSS2023), July 17-20, 2023, in Sherbrooke, Quebec, Canada in conjunction with FOIS 2023. Pages 1-12. [Slides](https://github.com/johnbeve/OccO/files/12165828/Occupation.Ontology.pptx)
+John Beverley, Sam Smith, Matthew A Diller, William D. Duncan, Jie Zheng, John W. Judkins, William R. Hogan, Robin McGill, Damion Dooley, Yongqun He. The Occupation Ontology (OccO): Building a Bridge between Global Occupational Standards. Proceedings of The International Workshop on Ontologies for Social Services (OSS2023), July 17-20, 2023, in Sherbrooke, Quebec, Canada in conjunction with FOIS 2023. Pages 1-12. [Proceeding paper](https://storage.googleapis.com/wzukusers/user-12947767/documents/2c18c4f456ce4f6eab176c0983f75791/FOIS_2023_paper_920.pdf). [Slides](https://github.com/johnbeve/OccO/files/12165828/Occupation.Ontology.pptx). 
 
 Sam Smith, Yongqun He, Damion Dooley, Eric Merrell, and John Beverley. Toward an Occupation Ontology, OccO. The 2022 International Conference on Biomedical Ontology (ICBO 2022), October 5, 2022, Ann Arbor, MI, USA. PDF: [https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf](https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf). Flash talk: [https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf](https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf). 
 
-Sam Smith, Damion Dooley, Yongqun He. Foundational Development of an Occupation Ontology. Proceedings of The International Workshop on Ontologies for Social Services (OSS2022), 15-19 August 2022, Sweden. Pages 1-11.  [https://ceur-ws.org/Vol-3249/paper6-OSS.pdf](https://ceur-ws.org/Vol-3249/paper6-OSS.pdf). 
+Sam Smith, Damion Dooley, Yongqun He. Foundational Development of an Occupation Ontology. Proceedings of The International Workshop on Ontologies for Social Services (OSS2022), 15-19 August 2022, Jönköping University, Jönköpin, Sweden. Pages 1-11.  [https://ceur-ws.org/Vol-3249/paper6-OSS.pdf](https://ceur-ws.org/Vol-3249/paper6-OSS.pdf). 
 
 
 ## References:
